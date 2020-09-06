@@ -1,0 +1,3 @@
+<?php
+
+$copyrightDate = date(Y);
